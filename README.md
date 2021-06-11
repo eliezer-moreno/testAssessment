@@ -9,6 +9,7 @@ Instructions:
 2. Please create a branch with your name.
 3. Please implement the bootstrap theme (zip file startbootstrap-sb-admin-2-gh-pages), remove all non-sense items, leave the left menu with links to:
   -  Home (root)
+  -  Store
   -  Products
 4. Please create a new Model with the corresponding View-Controller for entity Store as:
 
