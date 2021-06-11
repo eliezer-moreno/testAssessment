@@ -1,7 +1,7 @@
 ![Image of Ariox](https://images.squarespace-cdn.com/content/5d7967ad390e2854723922f4/1581104335639-FP6E3PJLAZ1P8SE6GKMB/Ariox_connecting_slogan.png?content-type=image%2Fpng)
 
 # testAssessment
-This is a test technical assessment
+This is a technical assessment
 
 Instructions:
 
