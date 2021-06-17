@@ -3,15 +3,17 @@
 # testAssessment
 This is a technical assessment
 
+Pre-requisites:
+- VS 19
+- MS net5
+- MVC asp .net
+- MS entityframework
+
 Instructions:
 
 1. Please clone this repo.
 2. Please create a branch with your name.
-3. Please implement the bootstrap theme (zip file startbootstrap-sb-admin-2-gh-pages), remove all non-sense items, leave the left menu with links to:
-  -  Home (root)
-  -  Store
-  -  Products
-4. Please create a new Model with the corresponding View-Controller for entity Store as:
+3. Please create a new Model with the corresponding View-Controller for entity Store as:
 
 Column | Type
 ------------ | -------------
@@ -21,8 +23,8 @@ store_description | varchar(500)
 created_date | datetime
 updated_date | datetime
 
-5. Add the created_date, updated_date fields tot he entity Products (using the same definition as in store table).
-6. Add a FK for store in products table, the result will looks like this:
+4. Add the created_date, updated_date fields tot he entity Products (using the same definition as in store table).
+5. Add a FK for store in products table, the result will looks like this:
 
 Column | Type
 ------------ | -------------
@@ -35,8 +37,12 @@ unitprice | decimal(18,3)
 created_date | datetime
 updated_date | datetime
 
-7. Create a new controller to provide the full resultset Store->Product as JSON, this controller doesn't need any view.
-8. Modify the scaffolded files to use buttons instead of links (edit/details/delete links in grids)
+6. Create a new controller to provide the full resultset Store->Product as JSON, this controller doesn't need any view.
+7. Modify the scaffolded files to use buttons instead of links (edit/details/delete links in grids)
+8. Please implement the bootstrap theme (zip file startbootstrap-sb-admin-2-gh-pages), remove all non-sense items, leave the left menu with links to:
+  -  Home (root)
+  -  Store
+  -  Products
 9. Implement the datatables [datatables](https://datatables.net/) in Products & Store grids
 10. At the end please push all your changes :floppy_disk:
 
