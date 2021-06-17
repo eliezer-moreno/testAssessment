@@ -46,9 +46,9 @@ updated_date | datetime
     - net5/MVC View is the class used to view or visualize the data.
 8. Modify the scaffolded files to use buttons instead of links (edit/details/delete links in grids)
 9. Please implement the bootstrap theme (zip file startbootstrap-sb-admin-2-gh-pages), remove all non-sense items, leave the left menu with links to:
-  -  Home (root)
-  -  Store
-  -  Products
+    -  Home (root)
+    -  Store
+    -  Products
 10. Implement the datatables framework [datatables](https://datatables.net/) in Products & Store grids (filtering, search, css styles).
 11. At the end please push all your changes :floppy_disk:
 
