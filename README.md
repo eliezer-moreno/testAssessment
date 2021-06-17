@@ -41,9 +41,9 @@ created_date | datetime
 updated_date | datetime
 
 6. Create a new net5 MVC controller to provide the full resultset Store->Product as JSON, this controller doesn't need any view.
-  - net5/MVC Model is the class which describe the entity.
-  - net5/MVC Controller is the class which accepts the inputs and convert to commands to be represented later by a View (net5/MVC View class).
-  - net5/MVC View is the class used to view or visualize the data.
+    - net5/MVC Model is the class which describe the entity.
+    - net5/MVC Controller is the class which accepts the inputs and convert to commands to be represented later by a View (net5/MVC View class).
+    - net5/MVC View is the class used to view or visualize the data.
 8. Modify the scaffolded files to use buttons instead of links (edit/details/delete links in grids)
 9. Please implement the bootstrap theme (zip file startbootstrap-sb-admin-2-gh-pages), remove all non-sense items, leave the left menu with links to:
   -  Home (root)
