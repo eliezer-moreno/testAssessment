@@ -8,6 +8,9 @@ Pre-requisites:
 - MS net5
 - MVC asp .net
 - MS entityframework
+- Javascript
+- jQuery
+
 
 Instructions:
 
